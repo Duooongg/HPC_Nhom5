@@ -60,8 +60,6 @@ Bài toán ứng dụng: MaxCut trên đồ thị ngẫu nhiên Erdos–Renyi.
 
 Phương pháp so sánh:
 
-Thuật toán heuristic cổ điển (Greedy / Local Search).
-
 Thuật toán xấp xỉ Goemans–Williamson (GW).
 
 3.2. Môi trường thực nghiệm

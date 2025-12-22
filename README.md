@@ -1,11 +1,11 @@
-# HPC_Nhom5
-**TÍNH TOÁN HIỆU NĂNG CAO VỚI THUẬT TOÁN QAOA
+HPC_Nhom5
+TÍNH TOÁN HIỆU NĂNG CAO VỚI THUẬT TOÁN QAOA
 
 ỨNG DỤNG GIẢI BÀI TOÁN MAXCUT**
 
 Đồ án Bài tập lớn môn Tính toán Hiệu năng Cao (HPC)
 
-Nhóm sinh viên: Nhóm 4
+Nhóm sinh viên: Nhóm 
 
 Giảng viên hướng dẫn: TS. Hà Mạnh Đào
 Đơn vị: Trường Công nghệ Thông tin và Truyền thông – Đại học Công nghiệp Hà Nội
